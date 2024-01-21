@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background: url('/workspace/Fit-Hub/media/basketball.jpg') no-repeat center center fixed;
+    background: url('media/basketball.jpg') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
     color: #555;

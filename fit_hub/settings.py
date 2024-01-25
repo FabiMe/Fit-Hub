@@ -26,7 +26,7 @@ SECRET_KEY = 'p@ei#69*b*zz3u4yie-$()@cy^l(+x9&@6ypx+r0lm(3%_9hr7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-fabime-fithub-mv7f6ra4jy9.ws-eu107.gitpod.io']
+ALLOWED_HOSTS = ['https://fit-hub-764c345e8c73.herokuapp.com/', '8000-fabime-fithub-mv7f6ra4jy9.ws-eu107.gitpod.io']
 
 
 # Application definition

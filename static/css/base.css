@@ -3,10 +3,11 @@ html {
 }
 
 body {
-    background: url('/media/basketball.jpg') no-repeat center center fixed;
+    background: url('/media/hero_image.jpg') no-repeat center center fixed;
+    background-color: #212529;
     background-size: cover;
     height: calc(100vh - 164px);
-    color: #555;
+    color: #f3f3f3;
     font-family: 'Lato';
 }
 
@@ -28,27 +29,27 @@ body {
 }
 
 .shop-now-button {
-    background: black;
-    color: white;
+    background: white;
+    color: black;
     min-width: 260px;
 }
 
 .btn-black {
-    background: black;
-    color: white;
+    background: white;
+    color: black;
 }
 
 .btn-outline-black {
-    background: white;
-    color: black !important; /* use important to override link colors for <a> elements */
+    background: black;
+    color: white !important; /* use important to override link colors for <a> elements */
     border: 1px solid black;
 }
 
 .btn-outline-black:hover,
 .btn-outline-black:active,
 .btn-outline-black:focus {
-    background: black;
-    color: white !important;
+    background: white;
+    color: black !important;
 }
 
 .shop-now-button:hover,
